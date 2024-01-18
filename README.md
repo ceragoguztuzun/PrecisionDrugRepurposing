@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme_img" alt="Title Image">
+  <img src="figures/readme_img" alt="Title Image">
 </p>
 
 
@@ -19,7 +19,7 @@ DB00363	TREAT	C0012236
 DB01008	TREAT	C0740302
 DB01190	TREAT	C0243001
 ```
- <img src="colored_schema.png" alt="Schema Image" width="300" height="200">
+ <img src="figures/colored_schema.png" alt="Schema Image" width="300" height="200">
 
 Format of `ad_pre.txt`:
 ```
