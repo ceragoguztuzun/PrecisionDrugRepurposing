@@ -3,6 +3,26 @@
 </p>
 
 
+💊 This work has been published in the Journal of Biomedical Informatics (JBI):
+[Precision Drug Repurposing (PDR): Patient-level modeling and prediction combining foundational knowledge graph with biobank data](https://pubmed.ncbi.nlm.nih.gov/39952626/)
+
+
+## Citation
+
+If you use this framework in your research, please cite:
+
+```
+@article{oguztuzun2025precision,
+  title={Precision Drug Repurposing (PDR): Patient-level modeling and prediction combining foundational knowledge graph with biobank data},
+  author={O{\u{g}}uzt{\"u}z{\"u}n, {\c{C}}era{\u{g}} and Gao, Zhenxiang and Li, Hui and Xu, Rong},
+  journal={Journal of Biomedical Informatics},
+  pages={104786},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+
 ## Input File Formats
 
 Format of `{patients_data_filepath}.csv`:
@@ -93,3 +113,7 @@ Preconditions:
   ```
 
 ### Predictions will be in the file specified in `-save_result` for each drug.
+
+
+
+
